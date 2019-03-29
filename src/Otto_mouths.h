@@ -19,7 +19,7 @@
 
 #define smile_code                 0b00000000100001010010001100000000
 #define happyOpen_code        	   0b00000000111111010010001100000000 
-#define happyClosed_code		       0b00000000111111011110000000000000
+#define happyClosed_code		   0b00000000111111011110000000000000
 #define heart_code                 0b00010010101101100001010010001100
 
 #define bigSurprise_code           0b00001100010010100001010010001100
@@ -33,9 +33,9 @@
 #define confused_code              0b00000000001000010101100010000000
 #define diagonal_code         	   0b00100000010000001000000100000010
 
-#define sad_code             	     0b00000000001100010010100001000000
-#define sadOpen_code 		           0b00000000001100010010111111000000
-#define sadClosed_code   		       0b00000000001100011110110011000000
+#define sad_code             	   0b00000000001100010010100001000000
+#define sadOpen_code 		       0b00000000001100010010111111000000
+#define sadClosed_code   		   0b00000000001100011110110011000000
 
 #define okMouth_code               0b00000001000010010100001000000000
 #define xMouth_code                0b00100001010010001100010010100001
@@ -48,37 +48,37 @@
 
 
 //Mouths sorted by numbers, and after, by happy to sad mouths
-#define zero 			        	0
-#define one  			        	1                
-#define two     			      2               
+#define zero 				0
+#define one  				1                
+#define two     			2               
 #define three               3  
 #define four                4
 #define five                5 
 #define six                 6 
 #define seven               7  
 #define eight               8 
-#define nine   				      9
+#define nine   				9
 #define smile               10                  
-#define happyOpen      	  	11  
-#define happyClosed 	      12  
-#define heart      			    13
+#define happyOpen      		11  
+#define happyClosed 	    12  
+#define heart      			13
 #define bigSurprise         14  
-#define smallSurprise 		  15
-#define tongueOut 		    	16
+#define smallSurprise 		15
+#define tongueOut 			16
 #define vamp1               17  
 #define vamp2               18  
-#define lineMouth         	19
+#define lineMouth        	19
 #define confused            20  
-#define diagonal         		21          
-#define sad         	    	22
-#define sadOpen 	          23 
-#define sadClosed 		  	  24
+#define diagonal       		21          
+#define sad         		22
+#define sadOpen 	        23 
+#define sadClosed 		  	24
 #define okMouth             25 
 #define xMouth              26
 #define interrogation       27
-#define thunder		        	28
-#define culito       	    	29
-#define angry 				      30  
+#define thunder		       	28
+#define culito       		29
+#define angry 				30  
                
                
 
